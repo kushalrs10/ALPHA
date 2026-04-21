@@ -1,0 +1,242 @@
+[
+  {
+    "title": "OpenAI Launches GPT-5 With Unprecedented Reasoning Capabilities",
+    "description": "OpenAI has announced GPT-5, claiming major leaps in reasoning, multimodal understanding, and coding. The model reportedly scores near-human on several benchmark tests.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "publishedAt": "2024-12-01T10:00:00Z",
+    "category": "technology"
+  },
+  {
+    "title": "Google DeepMind Achieves Breakthrough in Protein Folding 2.0",
+    "description": "DeepMind researchers have developed an improved AI system capable of predicting protein structures with near-atomic accuracy, potentially revolutionizing drug discovery.",
+    "source": "Nature",
+    "url": "https://nature.com",
+    "publishedAt": "2024-12-01T09:30:00Z",
+    "category": "technology"
+  },
+  {
+    "title": "Meta Releases Open-Source AI Model That Rivals Proprietary Systems",
+    "description": "Meta AI has open-sourced its latest large language model, which benchmarks suggest competes with top closed-source models from OpenAI and Anthropic.",
+    "source": "Wired",
+    "url": "https://wired.com",
+    "publishedAt": "2024-12-01T08:00:00Z",
+    "category": "technology"
+  },
+  {
+    "title": "Apple Vision Pro Gets Major Software Update With AI Features",
+    "description": "Apple has released visionOS 2.0 introducing AI-powered spatial computing features, including real-time translation and context-aware virtual overlays.",
+    "source": "The Verge",
+    "url": "https://theverge.com",
+    "publishedAt": "2024-11-30T14:00:00Z",
+    "category": "technology"
+  },
+  {
+    "title": "Cybersecurity Researchers Uncover Massive Data Breach Affecting Millions",
+    "description": "A critical vulnerability in a popular cloud storage platform exposed personal data of over 50 million users worldwide, including emails and encrypted passwords.",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com",
+    "publishedAt": "2024-11-30T11:00:00Z",
+    "category": "technology"
+  },
+  {
+    "title": "Electric Vehicle Sales Surge as Battery Costs Hit Record Low",
+    "description": "Global EV sales reached a new milestone as lithium-ion battery prices dropped below $100 per kWh for the first time, making electric cars cost-competitive with gasoline vehicles.",
+    "source": "Bloomberg",
+    "url": "https://bloomberg.com",
+    "publishedAt": "2024-12-01T07:00:00Z",
+    "category": "business"
+  },
+  {
+    "title": "Federal Reserve Holds Interest Rates Steady Amid Inflation Concerns",
+    "description": "The Federal Reserve kept benchmark interest rates unchanged at its latest meeting, citing mixed economic signals and persistent inflation in the services sector.",
+    "source": "Reuters",
+    "url": "https://reuters.com",
+    "publishedAt": "2024-11-30T18:00:00Z",
+    "category": "business"
+  },
+  {
+    "title": "Amazon Expands Same-Day Delivery to 50 New Cities",
+    "description": "Amazon announced it will extend its same-day Prime delivery service to 50 additional metropolitan areas in North America, intensifying competition with Walmart and Target.",
+    "source": "CNBC",
+    "url": "https://cnbc.com",
+    "publishedAt": "2024-11-30T13:00:00Z",
+    "category": "business"
+  },
+  {
+    "title": "Stock Markets Rally on Strong Jobs Report Data",
+    "description": "Wall Street indexes climbed sharply after the Labor Department reported 250,000 new jobs added in November, beating analyst expectations and easing recession fears.",
+    "source": "Wall Street Journal",
+    "url": "https://wsj.com",
+    "publishedAt": "2024-11-30T16:00:00Z",
+    "category": "business"
+  },
+  {
+    "title": "Tesla Reports Record Quarterly Deliveries Despite Competition",
+    "description": "Tesla delivered over 500,000 vehicles in Q4, a company record, even as Chinese rivals BYD and NIO continue to gain market share in Asia and Europe.",
+    "source": "Financial Times",
+    "url": "https://ft.com",
+    "publishedAt": "2024-12-01T06:00:00Z",
+    "category": "business"
+  },
+  {
+    "title": "Premier League Title Race Heats Up as Top Four Teams Level on Points",
+    "description": "An exciting weekend of fixtures left Manchester City, Arsenal, Liverpool, and Chelsea all within two points of each other at the Premier League summit.",
+    "source": "BBC Sport",
+    "url": "https://bbc.com/sport",
+    "publishedAt": "2024-12-01T20:00:00Z",
+    "category": "sports"
+  },
+  {
+    "title": "NBA Star LeBron James Breaks All-Time Scoring Record Again",
+    "description": "LeBron James added another chapter to his legendary career by surpassing his own all-time NBA scoring record during a nationally televised game against the Celtics.",
+    "source": "ESPN",
+    "url": "https://espn.com",
+    "publishedAt": "2024-11-30T23:00:00Z",
+    "category": "sports"
+  },
+  {
+    "title": "Tennis: Jannik Sinner Wins ATP Finals to End Historic Season",
+    "description": "World No. 1 Jannik Sinner capped a dominant season by claiming the ATP Finals title in Turin, defeating Novak Djokovic in a thrilling three-set final.",
+    "source": "Tennis World",
+    "url": "https://tennisworld.com",
+    "publishedAt": "2024-11-30T22:00:00Z",
+    "category": "sports"
+  },
+  {
+    "title": "FIFA Announces New 48-Team World Cup Format for 2026",
+    "description": "FIFA has confirmed the detailed schedule and group stage format for the expanded 2026 World Cup, to be co-hosted by the United States, Canada, and Mexico.",
+    "source": "Goal",
+    "url": "https://goal.com",
+    "publishedAt": "2024-11-30T10:00:00Z",
+    "category": "sports"
+  },
+  {
+    "title": "Olympic Games Paris 2024 Legacy Report Highlights Record Attendance",
+    "description": "A comprehensive legacy report from Paris 2024 showed record ticket sales, global viewership of 4 billion, and significant infrastructure improvements across the French capital.",
+    "source": "Olympics",
+    "url": "https://olympics.com",
+    "publishedAt": "2024-11-29T12:00:00Z",
+    "category": "sports"
+  },
+  {
+    "title": "New Study Links Ultra-Processed Foods to Increased Dementia Risk",
+    "description": "Researchers at Harvard Medical School found that diets high in ultra-processed foods were associated with a 28% higher risk of cognitive decline and dementia in adults over 60.",
+    "source": "JAMA",
+    "url": "https://jama.com",
+    "publishedAt": "2024-12-01T08:00:00Z",
+    "category": "health"
+  },
+  {
+    "title": "WHO Declares New Mpox Variant a Global Health Emergency",
+    "description": "The World Health Organization has declared a new clade of mpox a public health emergency of international concern after cases spread to 15 countries outside Africa.",
+    "source": "WHO",
+    "url": "https://who.int",
+    "publishedAt": "2024-11-30T15:00:00Z",
+    "category": "health"
+  },
+  {
+    "title": "Revolutionary Cancer Vaccine Shows 90% Efficacy in Melanoma Trial",
+    "description": "A personalized mRNA cancer vaccine developed by BioNTech and Merck demonstrated 90% efficacy in preventing melanoma recurrence in a Phase 3 clinical trial with 1,000 patients.",
+    "source": "New England Journal of Medicine",
+    "url": "https://nejm.org",
+    "publishedAt": "2024-11-30T09:00:00Z",
+    "category": "health"
+  },
+  {
+    "title": "Mental Health Crisis Among Teenagers Worsens, CDC Report Finds",
+    "description": "A new CDC report reveals that rates of depression, anxiety, and suicidal ideation among US teenagers have risen sharply over the past decade, reaching historic highs.",
+    "source": "CDC",
+    "url": "https://cdc.gov",
+    "publishedAt": "2024-11-29T14:00:00Z",
+    "category": "health"
+  },
+  {
+    "title": "Breakthrough Gene Therapy Cures Hereditary Blindness in Clinical Trial",
+    "description": "Scientists at the University of Pennsylvania successfully restored vision in patients with a rare genetic form of blindness using a one-time CRISPR-based gene editing treatment.",
+    "source": "Science",
+    "url": "https://science.org",
+    "publishedAt": "2024-11-29T11:00:00Z",
+    "category": "health"
+  },
+  {
+    "title": "Netflix Announces Record Subscriber Growth Driven by Live Events",
+    "description": "Netflix added 15 million new subscribers in Q3, crediting live sports broadcasts, including an NFL game on Christmas Day, and its expanding games library for the surge.",
+    "source": "Variety",
+    "url": "https://variety.com",
+    "publishedAt": "2024-12-01T11:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Taylor Swift's Eras Tour Becomes Highest-Grossing Concert Tour in History",
+    "description": "Taylor Swift's Eras Tour has officially surpassed $2 billion in gross revenue, making it the highest-earning concert tour ever, eclipsing Elton John's Farewell Yellow Brick Road.",
+    "source": "Rolling Stone",
+    "url": "https://rollingstone.com",
+    "publishedAt": "2024-11-30T20:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Hollywood Blockbuster Breaks Opening Weekend Box Office Record",
+    "description": "Marvel's latest superhero film shattered global box office records with a $400 million opening weekend, the biggest in cinema history, driven by record IMAX ticket sales.",
+    "source": "Hollywood Reporter",
+    "url": "https://hollywoodreporter.com",
+    "publishedAt": "2024-11-30T19:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Spotify Launches AI-Generated Personalized Radio Stations",
+    "description": "Spotify has rolled out AI DJ 2.0, which creates fully personalized radio stations based on listening history, mood, and real-time context using generative AI music curation.",
+    "source": "Music Business Worldwide",
+    "url": "https://musicbusinessworldwide.com",
+    "publishedAt": "2024-11-29T16:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Emmy Awards Ceremony Sets New Viewership Record With Diverse Nominations",
+    "description": "The 76th Emmy Awards drew a record 18 million viewers, boosted by historic diversity in nominations across drama, comedy, and limited series categories.",
+    "source": "Deadline",
+    "url": "https://deadline.com",
+    "publishedAt": "2024-11-29T21:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Climate Summit COP29 Reaches Landmark Carbon Reduction Agreement",
+    "description": "Nearly 200 nations signed a new climate accord at COP29 in Baku, committing to halve carbon emissions by 2035 and triple renewable energy capacity globally.",
+    "source": "Guardian",
+    "url": "https://theguardian.com",
+    "publishedAt": "2024-12-01T17:00:00Z",
+    "category": "general"
+  },
+  {
+    "title": "SpaceX Successfully Lands Starship Booster for Second Time",
+    "description": "SpaceX completed a milestone test of its Starship mega-rocket system, successfully catching the Super Heavy booster using the launch tower's mechanical arms for the second time.",
+    "source": "Space.com",
+    "url": "https://space.com",
+    "publishedAt": "2024-11-30T17:00:00Z",
+    "category": "general"
+  },
+  {
+    "title": "Global Hunger Crisis Worsens as Conflict Disrupts Food Supply Chains",
+    "description": "The UN World Food Programme warns that over 280 million people face acute food insecurity, driven by conflicts in Sudan, Gaza, and Myanmar disrupting agricultural supply chains.",
+    "source": "UN News",
+    "url": "https://news.un.org",
+    "publishedAt": "2024-11-30T12:00:00Z",
+    "category": "general"
+  },
+  {
+    "title": "Scientists Discover New Deep-Sea Species in Pacific Ocean Expedition",
+    "description": "Marine biologists exploring the Mariana Trench identified 37 previously unknown deep-sea species including bioluminescent jellyfish and a new genus of amphipod crustacean.",
+    "source": "National Geographic",
+    "url": "https://nationalgeographic.com",
+    "publishedAt": "2024-11-29T10:00:00Z",
+    "category": "general"
+  },
+  {
+    "title": "Quantum Computing Milestone: IBM Demonstrates 1000-Qubit Processor",
+    "description": "IBM unveiled its Condor quantum processor featuring 1,121 qubits, marking a major step toward practical quantum advantage in simulating chemical and materials processes.",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org",
+    "publishedAt": "2024-11-29T09:00:00Z",
+    "category": "general"
+  }
+]
